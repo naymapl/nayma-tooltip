@@ -1,9 +1,9 @@
 # nayma-tooltip
-Simple Modern CSS3 Tolltip
+Simple Modern CSS3 Tooltip
 
 Examples od use:
 
-1. Normal. tolltip on top:
+1. Normal. tooltip on top:
 `<span tooltip="Tooltip top">Top</span>`
 
 2. Left side:
