@@ -15,5 +15,8 @@ Examples od use:
 4. Down side:
 `<span tooltip="Tooltip down" flow="down">Down</span>`
 
+Main Demo on Github Pages:
+https://naymaeu.github.io/nayma-tooltip/
+
 Simple demo on Codepen:
 http://codepen.io/Naymapl/pen/ryQPwG
