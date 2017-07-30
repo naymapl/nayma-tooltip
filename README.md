@@ -10,6 +10,12 @@ This is Simple Modern CSS3 Tooltip made by Nayma.pl.
 
 ![Nayma Simple CSS Tooltip](https://blog.nayma.pl/content/images/2017/07/nayma-simple-css-tooltip.gif)
 
+# Install
+
+***NPM***
+```
+npm install nayma-tooltip
+```
 
 # Usage
 
