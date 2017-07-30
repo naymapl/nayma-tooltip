@@ -8,6 +8,8 @@ This is Simple Modern CSS3 Tooltip made by Nayma.pl.
 
 ### DEMO on Github Pages:  https://naymaeu.github.io/nayma-tooltip/
 
+![Nayma Simple CSS Tooltip](/content/images/2017/07/nayma-tooltip.gif)
+
 
 # Usage
 
