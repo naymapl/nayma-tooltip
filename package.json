@@ -1,15 +1,12 @@
 {
   "name": "nayma-tooltip",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This is Simple Modern CSS3 Tooltip made by Nayma.pl.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@gitlab.com/naymapl/nayma-tooltip.git"
-  },
+  "repository": "git@gitlab.com:naymapl/nayma-tooltip.git",
   "keywords": [
     "nayma",
     "css",
@@ -23,6 +20,5 @@
     "url": "https://gitlab.com/naymapl/nayma-tooltip/issues"
   },
   "homepage": "https://gitlab.com/naymapl/nayma-tooltip#README",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
