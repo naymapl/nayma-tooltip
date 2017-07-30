@@ -1,5 +1,15 @@
-# nayma-tooltip
-Simple Modern CSS3 Tooltip
+![Nayma Logo](https://nayma.pl/img/logo-naymapl-color-web.svg)
+
+# Nayma.pl CSS Tooltip 0.1.0
+
+This is Simple Modern CSS3 Tooltip made by Nayma.pl.
+
+### DEMO on CodePen.io: http://codepen.io/Naymapl/pen/ryQPwG
+
+### DEMO on Github Pages:  https://naymaeu.github.io/nayma-tooltip/
+
+
+# Usage
 
 Examples od use:
 
@@ -15,8 +25,8 @@ Examples od use:
 4. Down side:
 `<span ntt="Tooltip down" flow="down">Down</span>`
 
-Main Demo on Github Pages:
-https://naymaeu.github.io/nayma-tooltip/
+# Thank you
 
-Simple demo on Codepen:
-http://codepen.io/Naymapl/pen/ryQPwG
+Hope so you enjoy this Simple Modern CSS3 Tooltip and use it in your next project.
+
+Check our website: [Nayma.pl](https://nayma.pl)
