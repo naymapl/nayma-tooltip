@@ -22,5 +22,7 @@
   "bugs": {
     "url": "https://gitlab.com/naymapl/nayma-tooltip/issues"
   },
-  "homepage": "https://gitlab.com/naymapl/nayma-tooltip#README"
+  "homepage": "https://gitlab.com/naymapl/nayma-tooltip#README",
+  "dependencies": {
+  }
 }
