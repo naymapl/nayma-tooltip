@@ -16,22 +16,22 @@ This is Simple Modern CSS3 Tooltip made by Nayma.pl.
 Examples od use:
 
 1. Default with tooltip on top:
-```
+```html
 <span ntt="Tooltip top">Top</span>
 ```
 
 2. Left side:
-```
+```html
 <span ntt="Tooltip left" flow="left">Left</span>
 ```
 
 3. Right side:
-```
+```html
 <span ntt="Tooltip right" flow="right">Right</span>
 ```
 
 4. Down side:
-```
+```html
 <span ntt="Tooltip down" flow="down">Down</span>
 ```
 
