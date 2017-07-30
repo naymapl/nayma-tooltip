@@ -33,6 +33,10 @@ Examples od use:
 <span ntt="Tooltip down" flow="down">Down</span>
 ```
 
+# License
+
+[MIT License](https://gitlab.com/naymapl/nayma-tooltip/blob/master/LICENSE). Copyright (c) 2017 Nayma.pl
+
 # Thank you
 
 Hope so you enjoy this Simple Modern CSS3 Tooltip and use it in your next project.
